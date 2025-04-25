@@ -52,7 +52,7 @@ Para acessar dados on-premises, é necessário configurar um **Integration Runti
    
 - Escolha **Auto-Hospedado** e siga as instruções para instalação no servidor local.
 
-![img1](./z_integration runtime.png)
+![img1](./z_integration_runtime.png)
 
 🔗 [Guia Oficial: Criar e Configurar um Integration Runtime Auto-Hospedado](https://learn.microsoft.com/pt-br/azure/data-factory/create-self-hosted-integration-runtime)
 
@@ -100,7 +100,7 @@ Para acessar dados on-premises, é necessário configurar um **Integration Runti
 
 - Defina o caminho do arquivo como `bronze/nome_do_arquivo.txt`.
 
-![img3](./z_create_datasets.png)
+![img3](./z_create_dataset.png)
 
 🔗 [Guia Oficial: Criar Datasets](https://learn.microsoft.com/pt-br/azure/data-factory/concepts-datasets-linked-services)
 
